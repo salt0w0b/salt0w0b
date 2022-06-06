@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my ![CV website](https://salt0w0b.github.io/)
+This is my CV website: https://salt0w0b.github.io/
 
 Here are some ideas to get you started:
 
